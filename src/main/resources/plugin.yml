@@ -1,0 +1,8 @@
+name: DGCore
+version: '${project.version}'
+main: drgumik.dgcore.DGCore
+api-version: 1.18
+authors: [ Jakub-Tenk, DrGumik ]
+description: DG-Core is depenency library/API for my other plugins
+website: drgumik.xyz
+loadbefore: [Talismans, BetterItemRecycler]
