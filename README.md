@@ -1,2 +1,3 @@
 # DG-Core
-# Library for my Minecraft plugins
+Library for my Minecraft plugins:
+ - BetterItemRecycler
